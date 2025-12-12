@@ -1,6 +1,6 @@
 # sflean.github.io
 
-Hello! We're a friendly Lean study group that meets at Mox SF on Mondays at 19:00 in late 2025. Our goal is to formalize the first five chapters of Terrence Tao's Analysis textbook together in Lean.
+Hello! We're a friendly Lean study group that meets at Mox SF on Mondays at 19:00 in late 2025. Our goal is to formalize the first five chapters of Terence Tao's Analysis textbook together in Lean.
 
 If you have time before you arrive, try installing the [Natual Number Game](https://github.com/leanprover-community/NNG4) locally. You'll want to open the repo in a VSCode devcontainer and open http://localhost:3000 in your browser.
 
