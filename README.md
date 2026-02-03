@@ -10,4 +10,6 @@ If you'd like to skip straight to the math, clone Terrence Tao's repo:
 3. `lake exe cache get`
 4. Start poking around `Section_2_2.lean` and filling out the `sorry`s.
 
-Good luck! You can ask for help / check the next meeting in the Discord server, which you can join by concatenating `https://discord.gg/` and `j9QJc` and `Dsvhw` and pasting into your browser.
+Good luck! You can ask for help / check the next meeting in the Discord
+server, which you can join by concatenating `https://discord.gg/` and
+`bXNPh` and `Qyjfe` and pasting into your browser.
