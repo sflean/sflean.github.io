@@ -20,7 +20,7 @@ Join the Discord to stay up to date on events and discussions — concatenate `h
 ## Past Session Conversation Topics
 
 - **06 Jul 2026:**
-  - Gerhard presented on aristotle
+  - Gerhard presented on aristotle [slides][9] [notes][10] [lean project][11]
 - **29 Jun 2026:**
   - ClocksSugars presented on Type Theory [slides][6] [video][7] [agda+lean code][8]
 - **22 Jun 2026:**
@@ -81,6 +81,9 @@ Good luck! You can ask for help in the Discord server.
 [3]: http://github.com/rkirov/jacobian-claude
 [4]: https://docs.google.com/presentation/d/1KliDGPNfI49_dib6Nbn1Gri8qx09_GlhunjuC_7ieS4/edit
 [5]: https://www.youtube.com/watch?v=x6GALs_x9Do
-[6]: TypeTheoryForAgdaNoPause.pdf
+[6]: files/2026-06-29-TypeTheoryForAgdaNoPause.pdf
 [7]: https://youtu.be/k2MOU7Q8N4w
 [8]: https://github.com/rkirov/agda-lean
+[9]: files/2026-07-06-gerhard/sflean-mock-slides-july-6-archive.pdf
+[10]: files/2026-07-06-gerhard/sflean-july-6-2026-notes.pdf
+[11]: files/2026-07-06-gerhard/2026-07-06-aristotle-for-sflean.zip
