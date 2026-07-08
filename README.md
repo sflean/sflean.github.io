@@ -1,18 +1,21 @@
 # sflean.group
 
-Hello! We're a friendly Lean study group that meets at Mox SF on Mondays at 19:00 in late 2025 and early 2026. Our goal is to formalize the first five chapters of Terence Tao's Analysis textbook together in Lean.
+Hello! We're a friendly group of Lean enthusiasts who meet weekly for a talk or presentation, followed by discussion, hands-on learning, and group projects.
 
-If you have time before you arrive, try installing the [Natual Number Game](https://github.com/leanprover-community/NNG4) locally. You'll want to open the repo in a VSCode devcontainer and open http://localhost:3000 in your browser.
+Our members include researchers, industry professionals, students, startup founders, consultants, curious community members — and hopefully YOU!
 
-If you'd like to skip straight to the math, clone Terrence Tao's repo:
-1. `git clone https://github.com/teorth/analysis`
-2. `cd analysis/analysis`
-3. `lake exe cache get`
-4. Start poking around `Section_2_2.lean` and filling out the `sorry`s.
+One of the great things about Lean is that it attracts people from many disciplines: math, CS theory, AI, software engineering, cryptography, physics, and economics, to name a few. Our members come from all of these backgrounds, and we welcome others with any level of experience, [including first timers](#im-totally-new-to-lean-how-do-i-get-started).
 
-Good luck! You can ask for help / check the next meeting in the Discord
-server, which you can join by concatenating `https://discord.gg/` and
-`bXNPh` and `Qyjfe` and pasting into your browser.
+While Lean is our focus, don't be surprised if you get pulled into conversations about programming languages, formal methods, or AI-assisted coding.
+
+**When:** Monday evenings at 7pm. Sessions run 1–2 hours, with the "official" portion lasting about an hour.
+
+**Where:** [Mox SF](https://moxsf.com/) (1680 Mission St, San Francisco)
+
+[Luma](https://luma.com/user/usr-IIea6zgV4whGCMX) has more information about upcoming talks and events.
+
+Join the Discord to stay up to date on events and discussions — concatenate `https://discord.gg/` and `bXNPh` and `Qyjfe` and paste into your browser. All our communication happens on Discord.
+
 
 ## Past Session Conversation Topics
 
@@ -49,22 +52,35 @@ server, which you can join by concatenating `https://discord.gg/` and
 	challenge](https://terrytao.wordpress.com/2026/03/13/mathematics-distillation-challenge-equational-theories/)
 	from Terry Tao
   - [Interview of Tao on Lean](https://www.youtube.com/watch?v=Q8Fkpi18QXU)
-  - [Gower's
+  - [Gowers'
 	Puzzles](https://gowers.wordpress.com/2026/03/20/group-and-semigroup-puzzles-and-a-possible-polymath-project/)
 	are some turing machine word games from a mathematician
-- **09 Feb 2026:**
+- **9 Feb 2026:**
   - Lean metaprogramming from Perry
   - Number theory part 3 from Gerhard
-- **02 Feb 2026:**
+- **2 Feb 2026:**
   - Number theory part 2 from Gerhard
 - **26 Jan 2026:**
   - Number theory part 1 from Gerhard
+
+## I'm totally new to Lean! How do I get started?
+
+If you have time before you arrive, try installing the [Natural Number Game](https://github.com/leanprover-community/NNG4) locally. You'll want to open the repo in a VSCode devcontainer and open http://localhost:3000 in your browser.
+
+If you'd like to skip straight to the math, clone Terence Tao's repo:
+1. `git clone https://github.com/teorth/analysis`
+2. `cd analysis/analysis`
+3. `lake exe cache get`
+4. Start poking around `Section_2_2.lean` and filling out the `sorry`s.
+
+Good luck! You can ask for help in the Discord server.
+
 
 [1]: https://en.wikipedia.org/wiki/Zorn%27s_lemma
 [2]: https://docs.google.com/presentation/d/1w6o-3BBk3Sn52XLOwiuIGfwvaw3x6VZj2Ya5fjX2Id8/edit
 [3]: http://github.com/rkirov/jacobian-claude
 [4]: https://docs.google.com/presentation/d/1KliDGPNfI49_dib6Nbn1Gri8qx09_GlhunjuC_7ieS4/edit
 [5]: https://www.youtube.com/watch?v=x6GALs_x9Do
-[6]: https://youtu.be/k2MOU7Q8N4w
-[7]: TypeTheoryForAgdaNoPause.pdf
+[6]: TypeTheoryForAgdaNoPause.pdf
+[7]: https://youtu.be/k2MOU7Q8N4w
 [8]: https://github.com/rkirov/agda-lean
