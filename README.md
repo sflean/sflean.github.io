@@ -1,4 +1,4 @@
-# sflean.group
+# sflean.group @ Mox SF, 1680 Mission St (ask for the door code in Discord)
 
 Hello! We're a friendly group of Lean enthusiasts who meet weekly for a talk or presentation, followed by discussion, hands-on learning, and group projects.
 
