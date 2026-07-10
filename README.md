@@ -62,6 +62,8 @@ Join the Discord to stay up to date on events and discussions — concatenate `h
   - Number theory part 2 from Gerhard
 - **26 Jan 2026:**
   - Number theory part 1 from Gerhard
+- **13 Oct 2026**
+  - Kickoff from Rado [slides](https://docs.google.com/presentation/d/1hX1fNA-IHYq_7TiLUSg80qGCMH9XgvGxzvIvOel1qoc/edit)
 
 ## I'm totally new to Lean! How do I get started?
 
