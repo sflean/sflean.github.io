@@ -35,11 +35,11 @@ Join the Discord to stay up to date on events and discussions — concatenate `h
 - **29 Jun 2026:**
   - ClocksSugars presented on Type Theory [slides][6] [video][7] [agda+lean code][8]
 
-  <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/k2MOU7Q8N4w" title="YouTube video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  [![Watch on YouTube](https://img.youtube.com/vi/k2MOU7Q8N4w/hqdefault.jpg)](https://www.youtube.com/watch?v=k2MOU7Q8N4w)
 - **22 Jun 2026:**
   - Will presented "Zero to Type Theory in 1 Hour" [slides][4] [video][5]
 
-  <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/x6GALs_x9Do" title="YouTube video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  [![Watch on YouTube](https://img.youtube.com/vi/x6GALs_x9Do/hqdefault.jpg)](https://www.youtube.com/watch?v=x6GALs_x9Do)
 - **15 Jun 2026:**
   - Rado presented on Filters 2 in Mathlib and [jacobian-claude][3]
 - **8 Jun 2026:**
