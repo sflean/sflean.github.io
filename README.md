@@ -30,8 +30,23 @@ Join the Discord to stay up to date on events and discussions — concatenate `h
 
 ## Past Session Conversation Topics
 
+- **3 Aug 2026:**
+  - Vasily Ilin presented "Formalizing all Math, Autonomously & Reliably" [video][12]
+- **27 Jul 2026:**
+  - Tanner Duve presented "AlgoLean: Most Models Are Query Models" [video][13]
+- **20 Jul 2026:**
+  - Alok Singh presented "Leanier Algebra" (Multivectors in Lean) [video][14]
+
+  [![Watch on YouTube](https://img.youtube.com/vi/JML78myEdIA/hqdefault.jpg)](https://www.youtube.com/watch?v=JML78myEdIA)
+- **13 Jul 2026:**
+  - ZyanSheep presented "Building a decentralized programming language" [video][15]
 - **06 Jul 2026:**
-  - Gerhard presented on aristotle [slides][9] [notes][10] [lean project][11]
+  - Gerhard presented on aristotle [slides][9] [notes][10] [lean project][11] [video][16]
+
+  [![Watch on YouTube](https://img.youtube.com/vi/1lOSG5IAW08/hqdefault.jpg)](https://www.youtube.com/watch?v=1lOSG5IAW08)
+  - ClocksSugars presented Part 2 of Type Theory (via Agda) + live coding session [video][17]
+
+  [![Watch on YouTube](https://img.youtube.com/vi/ZDQBNgykcQA/hqdefault.jpg)](https://www.youtube.com/watch?v=ZDQBNgykcQA)
 - **29 Jun 2026:**
   - ClocksSugars presented on Type Theory [slides][6] [video][7] [agda+lean code][8]
 
@@ -104,3 +119,9 @@ Good luck! You can ask for help in the Discord server.
 [9]: files/2026-07-06-gerhard/sflean-mock-slides-july-6-archive.pdf
 [10]: files/2026-07-06-gerhard/sflean-july-6-2026-notes.pdf
 [11]: files/2026-07-06-gerhard/2026-07-06-aristotle-for-sflean.zip
+[12]: https://adibaradwaj.substack.com/p/formalizing-all-math-autonomously
+[13]: https://adibaradwaj.substack.com/p/algolean-most-models-are-query-models
+[14]: https://www.youtube.com/watch?v=JML78myEdIA
+[15]: https://adibaradwaj.substack.com/p/building-a-decentralized-programing
+[16]: https://www.youtube.com/watch?v=1lOSG5IAW08
+[17]: https://www.youtube.com/watch?v=ZDQBNgykcQA
