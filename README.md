@@ -17,6 +17,26 @@ While Lean is our focus, don't be surprised if you get pulled into conversations
 Join the Discord to stay up to date on events and discussions — concatenate `https://discord.gg/` and `bXNPh` and `Qyjfe` and paste into your browser. All our communication happens on Discord.
 
 
+## Photos
+
+<table>
+  <tr>
+    <td><a href="files/photos/2026-08-03.jpg"><img src="files/photos/2026-08-03.jpg" width="400" alt="Full house at Mox SF, 3 Aug 2026"></a></td>
+    <td><a href="files/photos/2026-07-06.jpg"><img src="files/photos/2026-07-06.jpg" width="400" alt="Gerhard presenting on Aristotle, 6 Jul 2026"></a></td>
+  </tr>
+  <tr>
+    <td align="center"><sub>3 Aug 2026</sub></td>
+    <td align="center"><sub>6 Jul 2026 &mdash; Gerhard on Aristotle</sub></td>
+  </tr>
+  <tr>
+    <td><a href="files/photos/2026-06-22-a.jpg"><img src="files/photos/2026-06-22-a.jpg" width="400" alt="Will presenting Zero to Type Theory in 1 Hour, 22 Jun 2026"></a></td>
+    <td><a href="files/photos/2026-06-22-b.jpg"><img src="files/photos/2026-06-22-b.jpg" width="400" alt="Live Lean coding during Zero to Type Theory, 22 Jun 2026"></a></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2"><sub>22 Jun 2026 &mdash; Will's "Zero to Type Theory in 1 Hour"</sub></td>
+  </tr>
+</table>
+
 ## Past Session Conversation Topics
 
 - **06 Jul 2026:**
