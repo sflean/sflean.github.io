@@ -30,37 +30,49 @@ Join the Discord to stay up to date on events and discussions — concatenate `h
 
 ## Past Session Conversation Topics
 
+- **17 Aug 2026:**
+  - Jasper Yao presented "Smooth Singularities in Neural Networks" [video][18]
+
+  [![Watch on YouTube](https://img.youtube.com/vi/cDtTs-3cSeg/hqdefault.jpg)](https://www.youtube.com/watch?v=cDtTs-3cSeg)
 - **3 Aug 2026:**
   - Vasily Ilin presented "Formalizing all Math, Autonomously & Reliably" [video][12]
 
-  [![Watch video](files/video-thumbs/2026-08-03-vasily.jpg)][12]
+  [![Watch on YouTube](https://img.youtube.com/vi/mCf9MWYQJGA/hqdefault.jpg)](https://www.youtube.com/watch?v=mCf9MWYQJGA)
+
 - **27 Jul 2026:**
   - Tanner Duve presented "AlgoLean: Most Models Are Query Models" [video][13]
 
-  [![Watch video](files/video-thumbs/2026-07-27-tanner.jpg)][13]
+  [![Watch on YouTube](https://img.youtube.com/vi/3TfWg6f_KAc/hqdefault.jpg)](https://www.youtube.com/watch?v=3TfWg6f_KAc)
+
 - **20 Jul 2026:**
   - Alok Singh presented "Leanier Algebra" (Multivectors in Lean) [video][14]
 
-  [![Watch on YouTube](https://img.youtube.com/vi/JML78myEdIA/hqdefault.jpg)](https://www.youtube.com/watch?v=JML78myEdIA)
+  [![Watch on YouTube](https://img.youtube.com/vi/I8-piPAwbrM/hqdefault.jpg)](https://www.youtube.com/watch?v=I8-piPAwbrM)
+
 - **13 Jul 2026:**
   - ZyanSheep presented "Building a decentralized programming language" [video][15]
 
-  [![Watch video](files/video-thumbs/2026-07-13-zyansheep.jpg)][15]
+  [![Watch on YouTube](https://img.youtube.com/vi/qzvcpb5EaWY/hqdefault.jpg)](https://www.youtube.com/watch?v=qzvcpb5EaWY)
+
 - **06 Jul 2026:**
   - Gerhard presented on aristotle [slides][9] [notes][10] [lean project][11] [video][16]
 
-  [![Watch on YouTube](https://img.youtube.com/vi/1lOSG5IAW08/hqdefault.jpg)](https://www.youtube.com/watch?v=1lOSG5IAW08)
+  [![Watch on YouTube](https://img.youtube.com/vi/zeZkp2I1_bY/hqdefault.jpg)](https://www.youtube.com/watch?v=zeZkp2I1_bY)
+
   - ClocksSugars presented Part 2 of Type Theory (via Agda) + live coding session [video][17]
 
-  [![Watch on YouTube](https://img.youtube.com/vi/ZDQBNgykcQA/hqdefault.jpg)](https://www.youtube.com/watch?v=ZDQBNgykcQA)
+  [![Watch on YouTube](https://img.youtube.com/vi/URw7nhDYPfU/hqdefault.jpg)](https://www.youtube.com/watch?v=URw7nhDYPfU)
+
 - **29 Jun 2026:**
   - ClocksSugars presented on Type Theory [slides][6] [video][7] [agda+lean code][8]
 
-  [![Watch on YouTube](https://img.youtube.com/vi/k2MOU7Q8N4w/hqdefault.jpg)](https://www.youtube.com/watch?v=k2MOU7Q8N4w)
+  [![Watch on YouTube](https://img.youtube.com/vi/Jc8zri8wvFs/hqdefault.jpg)](https://www.youtube.com/watch?v=Jc8zri8wvFs)
+
 - **22 Jun 2026:**
   - Will presented "Zero to Type Theory in 1 Hour" [slides][4] [video][5]
 
-  [![Watch on YouTube](https://img.youtube.com/vi/x6GALs_x9Do/hqdefault.jpg)](https://www.youtube.com/watch?v=x6GALs_x9Do)
+  [![Watch on YouTube](https://img.youtube.com/vi/GIbww1XG6LU/hqdefault.jpg)](https://www.youtube.com/watch?v=GIbww1XG6LU)
+
 - **15 Jun 2026:**
   - Rado presented on Filters 2 in Mathlib and [jacobian-claude][3]
 - **8 Jun 2026:**
@@ -118,16 +130,17 @@ Good luck! You can ask for help in the Discord server.
 [2]: https://docs.google.com/presentation/d/1w6o-3BBk3Sn52XLOwiuIGfwvaw3x6VZj2Ya5fjX2Id8/edit
 [3]: http://github.com/rkirov/jacobian-claude
 [4]: https://docs.google.com/presentation/d/1KliDGPNfI49_dib6Nbn1Gri8qx09_GlhunjuC_7ieS4/edit
-[5]: https://www.youtube.com/watch?v=x6GALs_x9Do
+[5]: https://www.youtube.com/watch?v=GIbww1XG6LU
 [6]: files/2026-06-29-TypeTheoryForAgdaNoPause.pdf
-[7]: https://youtu.be/k2MOU7Q8N4w
+[7]: https://www.youtube.com/watch?v=Jc8zri8wvFs
 [8]: https://github.com/rkirov/agda-lean
 [9]: files/2026-07-06-gerhard/sflean-mock-slides-july-6-archive.pdf
 [10]: files/2026-07-06-gerhard/sflean-july-6-2026-notes.pdf
 [11]: files/2026-07-06-gerhard/2026-07-06-aristotle-for-sflean.zip
-[12]: https://adibaradwaj.substack.com/p/formalizing-all-math-autonomously
-[13]: https://adibaradwaj.substack.com/p/algolean-most-models-are-query-models
-[14]: https://www.youtube.com/watch?v=JML78myEdIA
-[15]: https://adibaradwaj.substack.com/p/building-a-decentralized-programing
-[16]: https://www.youtube.com/watch?v=1lOSG5IAW08
-[17]: https://www.youtube.com/watch?v=ZDQBNgykcQA
+[12]: https://www.youtube.com/watch?v=mCf9MWYQJGA
+[13]: https://www.youtube.com/watch?v=3TfWg6f_KAc
+[14]: https://www.youtube.com/watch?v=I8-piPAwbrM
+[15]: https://www.youtube.com/watch?v=qzvcpb5EaWY
+[16]: https://www.youtube.com/watch?v=zeZkp2I1_bY
+[17]: https://www.youtube.com/watch?v=URw7nhDYPfU
+[18]: https://www.youtube.com/watch?v=cDtTs-3cSeg
