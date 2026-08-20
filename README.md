@@ -32,14 +32,20 @@ Join the Discord to stay up to date on events and discussions — concatenate `h
 
 - **3 Aug 2026:**
   - Vasily Ilin presented "Formalizing all Math, Autonomously & Reliably" [video][12]
+
+  [![Watch video](files/video-thumbs/2026-08-03-vasily.jpg)][12]
 - **27 Jul 2026:**
   - Tanner Duve presented "AlgoLean: Most Models Are Query Models" [video][13]
+
+  [![Watch video](files/video-thumbs/2026-07-27-tanner.jpg)][13]
 - **20 Jul 2026:**
   - Alok Singh presented "Leanier Algebra" (Multivectors in Lean) [video][14]
 
   [![Watch on YouTube](https://img.youtube.com/vi/JML78myEdIA/hqdefault.jpg)](https://www.youtube.com/watch?v=JML78myEdIA)
 - **13 Jul 2026:**
   - ZyanSheep presented "Building a decentralized programming language" [video][15]
+
+  [![Watch video](files/video-thumbs/2026-07-13-zyansheep.jpg)][15]
 - **06 Jul 2026:**
   - Gerhard presented on aristotle [slides][9] [notes][10] [lean project][11] [video][16]
 
