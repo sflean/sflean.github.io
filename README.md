@@ -31,48 +31,22 @@ Join the Discord to stay up to date on events and discussions — concatenate `h
 ## Past Session Conversation Topics
 
 - **17 Aug 2026:**
-  - Jasper Yao presented "Smooth Singularities in Neural Networks" [video][18]
-
-  [![Watch on YouTube](https://img.youtube.com/vi/cDtTs-3cSeg/hqdefault.jpg)](https://www.youtube.com/watch?v=cDtTs-3cSeg)
+  - Jasper Yao presented "Smooth Singularities in Neural Networks" [video][18]<br><a href="https://www.youtube.com/watch?v=cDtTs-3cSeg"><img src="https://img.youtube.com/vi/cDtTs-3cSeg/mqdefault.jpg" width="240" alt="Watch on YouTube"></a>
 - **3 Aug 2026:**
-  - Vasily Ilin presented "Formalizing all Math, Autonomously & Reliably" [video][12]
-
-  [![Watch on YouTube](https://img.youtube.com/vi/mCf9MWYQJGA/hqdefault.jpg)](https://www.youtube.com/watch?v=mCf9MWYQJGA)
-
+  - Vasily Ilin presented "Formalizing all Math, Autonomously & Reliably" [video][12]<br><a href="https://www.youtube.com/watch?v=mCf9MWYQJGA"><img src="https://img.youtube.com/vi/mCf9MWYQJGA/mqdefault.jpg" width="240" alt="Watch on YouTube"></a>
 - **27 Jul 2026:**
-  - Tanner Duve presented "AlgoLean: Most Models Are Query Models" [video][13]
-
-  [![Watch on YouTube](https://img.youtube.com/vi/3TfWg6f_KAc/hqdefault.jpg)](https://www.youtube.com/watch?v=3TfWg6f_KAc)
-
+  - Tanner Duve presented "AlgoLean: Most Models Are Query Models" [video][13]<br><a href="https://www.youtube.com/watch?v=3TfWg6f_KAc"><img src="https://img.youtube.com/vi/3TfWg6f_KAc/mqdefault.jpg" width="240" alt="Watch on YouTube"></a>
 - **20 Jul 2026:**
-  - Alok Singh presented "Leanier Algebra" (Multivectors in Lean) [video][14]
-
-  [![Watch on YouTube](https://img.youtube.com/vi/I8-piPAwbrM/hqdefault.jpg)](https://www.youtube.com/watch?v=I8-piPAwbrM)
-
+  - Alok Singh presented "Leanier Algebra" (Multivectors in Lean) [video][14]<br><a href="https://www.youtube.com/watch?v=I8-piPAwbrM"><img src="https://img.youtube.com/vi/I8-piPAwbrM/mqdefault.jpg" width="240" alt="Watch on YouTube"></a>
 - **13 Jul 2026:**
-  - ZyanSheep presented "Building a decentralized programming language" [video][15]
-
-  [![Watch on YouTube](https://img.youtube.com/vi/qzvcpb5EaWY/hqdefault.jpg)](https://www.youtube.com/watch?v=qzvcpb5EaWY)
-
+  - ZyanSheep presented "Building a decentralized programming language" [video][15]<br><a href="https://www.youtube.com/watch?v=qzvcpb5EaWY"><img src="https://img.youtube.com/vi/qzvcpb5EaWY/mqdefault.jpg" width="240" alt="Watch on YouTube"></a>
 - **06 Jul 2026:**
-  - Gerhard presented on aristotle [slides][9] [notes][10] [lean project][11] [video][16]
-
-  [![Watch on YouTube](https://img.youtube.com/vi/zeZkp2I1_bY/hqdefault.jpg)](https://www.youtube.com/watch?v=zeZkp2I1_bY)
-
-  - ClocksSugars presented Part 2 of Type Theory (via Agda) + live coding session [video][17]
-
-  [![Watch on YouTube](https://img.youtube.com/vi/URw7nhDYPfU/hqdefault.jpg)](https://www.youtube.com/watch?v=URw7nhDYPfU)
-
+  - Gerhard presented on aristotle [slides][9] [notes][10] [lean project][11] [video][16]<br><a href="https://www.youtube.com/watch?v=zeZkp2I1_bY"><img src="https://img.youtube.com/vi/zeZkp2I1_bY/mqdefault.jpg" width="240" alt="Watch on YouTube"></a>
+  - ClocksSugars presented Part 2 of Type Theory (via Agda) + live coding session [video][17]<br><a href="https://www.youtube.com/watch?v=URw7nhDYPfU"><img src="https://img.youtube.com/vi/URw7nhDYPfU/mqdefault.jpg" width="240" alt="Watch on YouTube"></a>
 - **29 Jun 2026:**
-  - ClocksSugars presented on Type Theory [slides][6] [video][7] [agda+lean code][8]
-
-  [![Watch on YouTube](https://img.youtube.com/vi/Jc8zri8wvFs/hqdefault.jpg)](https://www.youtube.com/watch?v=Jc8zri8wvFs)
-
+  - ClocksSugars presented on Type Theory [slides][6] [video][7] [agda+lean code][8]<br><a href="https://www.youtube.com/watch?v=Jc8zri8wvFs"><img src="https://img.youtube.com/vi/Jc8zri8wvFs/mqdefault.jpg" width="240" alt="Watch on YouTube"></a>
 - **22 Jun 2026:**
-  - Will presented "Zero to Type Theory in 1 Hour" [slides][4] [video][5]
-
-  [![Watch on YouTube](https://img.youtube.com/vi/GIbww1XG6LU/hqdefault.jpg)](https://www.youtube.com/watch?v=GIbww1XG6LU)
-
+  - Will presented "Zero to Type Theory in 1 Hour" [slides][4] [video][5]<br><a href="https://www.youtube.com/watch?v=GIbww1XG6LU"><img src="https://img.youtube.com/vi/GIbww1XG6LU/mqdefault.jpg" width="240" alt="Watch on YouTube"></a>
 - **15 Jun 2026:**
   - Rado presented on Filters 2 in Mathlib and [jacobian-claude][3]
 - **8 Jun 2026:**
