@@ -17,14 +17,36 @@ While Lean is our focus, don't be surprised if you get pulled into conversations
 Join the Discord to stay up to date on events and discussions — concatenate `https://discord.gg/` and `bXNPh` and `Qyjfe` and paste into your browser. All our communication happens on Discord.
 
 
+<table>
+  <tr>
+    <td><a href="files/photos/2026-08-03.jpg"><img src="files/photos/2026-08-03.jpg" width="400" alt="SF Lean session at Mox SF"></a></td>
+    <td><a href="files/photos/2026-07-06.jpg"><img src="files/photos/2026-07-06.jpg" width="400" alt="SF Lean session at Mox SF"></a></td>
+  </tr>
+  <tr>
+    <td><a href="files/photos/2026-06-22-a.jpg"><img src="files/photos/2026-06-22-a.jpg" width="400" alt="SF Lean session at Mox SF"></a></td>
+    <td><a href="files/photos/2026-06-22-b.jpg"><img src="files/photos/2026-06-22-b.jpg" width="400" alt="SF Lean session at Mox SF"></a></td>
+  </tr>
+</table>
+
 ## Past Session Conversation Topics
 
+- **17 Aug 2026:**
+  - Jasper Yao presented "Smooth Singularities in Neural Networks" [video][18]<br><a href="https://www.youtube.com/watch?v=cDtTs-3cSeg"><img src="https://img.youtube.com/vi/cDtTs-3cSeg/mqdefault.jpg" width="240" alt="Watch on YouTube"></a>
+- **3 Aug 2026:**
+  - Vasily Ilin presented "Formalizing all Math, Autonomously & Reliably" [video][12]<br><a href="https://www.youtube.com/watch?v=mCf9MWYQJGA"><img src="https://img.youtube.com/vi/mCf9MWYQJGA/mqdefault.jpg" width="240" alt="Watch on YouTube"></a>
+- **27 Jul 2026:**
+  - Tanner Duve presented "AlgoLean: Most Models Are Query Models" [video][13]<br><a href="https://www.youtube.com/watch?v=3TfWg6f_KAc"><img src="https://img.youtube.com/vi/3TfWg6f_KAc/mqdefault.jpg" width="240" alt="Watch on YouTube"></a>
+- **20 Jul 2026:**
+  - Alok Singh presented "Leanier Algebra" (Multivectors in Lean) [video][14]<br><a href="https://www.youtube.com/watch?v=I8-piPAwbrM"><img src="https://img.youtube.com/vi/I8-piPAwbrM/mqdefault.jpg" width="240" alt="Watch on YouTube"></a>
+- **13 Jul 2026:**
+  - ZyanSheep presented "Building a decentralized programming language" [video][15]<br><a href="https://www.youtube.com/watch?v=qzvcpb5EaWY"><img src="https://img.youtube.com/vi/qzvcpb5EaWY/mqdefault.jpg" width="240" alt="Watch on YouTube"></a>
 - **06 Jul 2026:**
-  - Gerhard presented on aristotle [slides][9] [notes][10] [lean project][11]
+  - Gerhard presented on aristotle [slides][9] [notes][10] [lean project][11] [video][16]<br><a href="https://www.youtube.com/watch?v=zeZkp2I1_bY"><img src="https://img.youtube.com/vi/zeZkp2I1_bY/mqdefault.jpg" width="240" alt="Watch on YouTube"></a>
+  - ClocksSugars presented Part 2 of Type Theory (via Agda) + live coding session [video][17]<br><a href="https://www.youtube.com/watch?v=URw7nhDYPfU"><img src="https://img.youtube.com/vi/URw7nhDYPfU/mqdefault.jpg" width="240" alt="Watch on YouTube"></a>
 - **29 Jun 2026:**
-  - ClocksSugars presented on Type Theory [slides][6] [video][7] [agda+lean code][8]
+  - ClocksSugars presented on Type Theory [slides][6] [video][7] [agda+lean code][8]<br><a href="https://www.youtube.com/watch?v=Jc8zri8wvFs"><img src="https://img.youtube.com/vi/Jc8zri8wvFs/mqdefault.jpg" width="240" alt="Watch on YouTube"></a>
 - **22 Jun 2026:**
-  - Will presented "Zero to Type Theory in 1 Hour" [slides][4] [video][5]
+  - Will presented "Zero to Type Theory in 1 Hour" [slides][4] [video][5]<br><a href="https://www.youtube.com/watch?v=GIbww1XG6LU"><img src="https://img.youtube.com/vi/GIbww1XG6LU/mqdefault.jpg" width="240" alt="Watch on YouTube"></a>
 - **15 Jun 2026:**
   - Rado presented on Filters 2 in Mathlib and [jacobian-claude][3]
 - **8 Jun 2026:**
@@ -82,10 +104,17 @@ Good luck! You can ask for help in the Discord server.
 [2]: https://docs.google.com/presentation/d/1w6o-3BBk3Sn52XLOwiuIGfwvaw3x6VZj2Ya5fjX2Id8/edit
 [3]: http://github.com/rkirov/jacobian-claude
 [4]: https://docs.google.com/presentation/d/1KliDGPNfI49_dib6Nbn1Gri8qx09_GlhunjuC_7ieS4/edit
-[5]: https://www.youtube.com/watch?v=x6GALs_x9Do
+[5]: https://www.youtube.com/watch?v=GIbww1XG6LU
 [6]: files/2026-06-29-TypeTheoryForAgdaNoPause.pdf
-[7]: https://youtu.be/k2MOU7Q8N4w
+[7]: https://www.youtube.com/watch?v=Jc8zri8wvFs
 [8]: https://github.com/rkirov/agda-lean
 [9]: files/2026-07-06-gerhard/sflean-mock-slides-july-6-archive.pdf
 [10]: files/2026-07-06-gerhard/sflean-july-6-2026-notes.pdf
 [11]: files/2026-07-06-gerhard/2026-07-06-aristotle-for-sflean.zip
+[12]: https://www.youtube.com/watch?v=mCf9MWYQJGA
+[13]: https://www.youtube.com/watch?v=3TfWg6f_KAc
+[14]: https://www.youtube.com/watch?v=I8-piPAwbrM
+[15]: https://www.youtube.com/watch?v=qzvcpb5EaWY
+[16]: https://www.youtube.com/watch?v=zeZkp2I1_bY
+[17]: https://www.youtube.com/watch?v=URw7nhDYPfU
+[18]: https://www.youtube.com/watch?v=cDtTs-3cSeg
