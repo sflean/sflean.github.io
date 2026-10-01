@@ -1,5 +1,8 @@
+title: SF Lean Meetup
+
 defaults:
   - scope:
       path: ""
     values:
+      title: SF Lean Meetup
       image: /files/photos/2026-07-06.jpg
