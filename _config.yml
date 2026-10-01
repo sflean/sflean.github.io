@@ -1,0 +1,5 @@
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /files/photos/2026-07-06.jpg
