@@ -30,6 +30,8 @@ Join the Discord to stay up to date on events and discussions — concatenate `h
 
 ## Past Session Conversation Topics
 
+- **5 Oct 2026:**
+  - ClocksSugars presented on Programming Language Foundations [slides][19] [coq/lean cheatsheet][20]
 - **17 Aug 2026:**
   - Jasper Yao presented "Smooth Singularities in Neural Networks" [video][18]<br><a href="https://www.youtube.com/watch?v=cDtTs-3cSeg"><img src="https://img.youtube.com/vi/cDtTs-3cSeg/mqdefault.jpg" width="240" alt="Watch on YouTube"></a>
 - **3 Aug 2026:**
@@ -118,3 +120,5 @@ Good luck! You can ask for help in the Discord server.
 [16]: https://www.youtube.com/watch?v=zeZkp2I1_bY
 [17]: https://www.youtube.com/watch?v=URw7nhDYPfU
 [18]: https://www.youtube.com/watch?v=cDtTs-3cSeg
+[19]: files/2026-10-05-clockssugars/small-step-semantics-lecture-notes.pdf
+[20]: files/2026-10-05-clockssugars/coq-lean-cheatsheet.pdf
