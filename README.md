@@ -34,6 +34,8 @@ Join the Discord to stay up to date on events and discussions — concatenate `h
   - Alex Skidanov presented price-performant Lean Eval with Deepseek + Forc [slides][22] [gslides][23]
 - **5 Oct 2026:**
   - ClocksSugars presented on Programming Language Foundations [slides][19] [coq/lean cheatsheet][20] [textbook][21]
+- **14 Sep 2026:**
+  - Henry Robbins presented "Verified Mixed-Integer Programming in Lean" [video][25] [paper][26]<br><a href="https://www.youtube.com/watch?v=c--uaHWwiC0"><img src="https://img.youtube.com/vi/c--uaHWwiC0/mqdefault.jpg" width="240" alt="Watch on YouTube"></a>
 - **7 Sep 2026:**
   - ClocksSugars presented "What is Homotopy Type Theory?" [video][24]<br><a href="https://www.youtube.com/watch?v=BdPhuzzbWaY"><img src="https://img.youtube.com/vi/BdPhuzzbWaY/mqdefault.jpg" width="240" alt="Watch on YouTube"></a>
 - **24 Aug 2026:**
@@ -134,3 +136,5 @@ Good luck! You can ask for help in the Discord server.
 [22]: files/2026-10-12-skidanov/lean-eval-presentation.pdf
 [23]: https://docs.google.com/presentation/d/1aGaWkkipvJzmSOPyhku3c09LgXFYtdS8V6iskhZM4cM/edit
 [24]: https://www.youtube.com/watch?v=BdPhuzzbWaY
+[25]: https://www.youtube.com/watch?v=c--uaHWwiC0
+[26]: https://arxiv.org/abs/2608.25220
