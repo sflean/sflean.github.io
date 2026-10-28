@@ -41,13 +41,19 @@ Interested in sponsoring the meetup? See [our sponsor page](sponsor).
 - **19 Oct 2026:**
   - Philippe Dumonet presented on interaction trees [slides][27]
 - **12 Oct 2026:**
-  - Alex Skidanov presented price-performant Lean Eval with Deepseek + Forc [slides][22] [gslides][23]
+  - Alex Skidanov presented "First Place on LeanEval at a Fraction of the Cost" [slides][22] [gslides][23] [video][28]<br><a href="https://www.youtube.com/watch?v=PyjV0PuTJDo"><img src="https://img.youtube.com/vi/PyjV0PuTJDo/mqdefault.jpg" width="240" alt="Watch on YouTube"></a>
 - **5 Oct 2026:**
   - ClocksSugars presented on Programming Language Foundations [slides][19] [coq/lean cheatsheet][20] [textbook][21]
+- **28 Sep 2026:**
+  - Ryan McCorvie presented "From Möbius to Tau Ceti: Autoformalizing the Classification of Surfaces" [video][29]<br><a href="https://www.youtube.com/watch?v=OzM9hohlHnI"><img src="https://img.youtube.com/vi/OzM9hohlHnI/mqdefault.jpg" width="240" alt="Watch on YouTube"></a>
+- **21 Sep 2026:**
+  - Benjamin Brast-McKie presented "The Construction of Possible Worlds" [video][30]<br><a href="https://www.youtube.com/watch?v=0WcPX1lO9AY"><img src="https://img.youtube.com/vi/0WcPX1lO9AY/mqdefault.jpg" width="240" alt="Watch on YouTube"></a>
 - **14 Sep 2026:**
   - Henry Robbins presented "Verified Mixed-Integer Programming in Lean" [video][25] [paper][26]<br><a href="https://www.youtube.com/watch?v=c--uaHWwiC0"><img src="https://img.youtube.com/vi/c--uaHWwiC0/mqdefault.jpg" width="240" alt="Watch on YouTube"></a>
 - **7 Sep 2026:**
   - ClocksSugars presented "What is Homotopy Type Theory?" [video][24]<br><a href="https://www.youtube.com/watch?v=BdPhuzzbWaY"><img src="https://img.youtube.com/vi/BdPhuzzbWaY/mqdefault.jpg" width="240" alt="Watch on YouTube"></a>
+- **31 Aug 2026:**
+  - Gershon Bialer presented "Formalizing the Ternary Goldbach Conjecture in Lean" [video][31]<br><a href="https://www.youtube.com/watch?v=Vy1d_VJj8fg"><img src="https://img.youtube.com/vi/Vy1d_VJj8fg/mqdefault.jpg" width="240" alt="Watch on YouTube"></a>
 - **24 Aug 2026:**
   - Coworking / small groups
 - **17 Aug 2026:**
@@ -149,3 +155,7 @@ Good luck! You can ask for help in the Discord server.
 [25]: https://www.youtube.com/watch?v=c--uaHWwiC0
 [26]: https://arxiv.org/abs/2608.25220
 [27]: files/2026-10-19-dumonet/itree-presentation.pdf
+[28]: https://www.youtube.com/watch?v=PyjV0PuTJDo
+[29]: https://www.youtube.com/watch?v=OzM9hohlHnI
+[30]: https://www.youtube.com/watch?v=0WcPX1lO9AY
+[31]: https://www.youtube.com/watch?v=Vy1d_VJj8fg
