@@ -38,6 +38,8 @@ Interested in sponsoring the meetup? See [our sponsor page](sponsor).
 
 ## Past Session Conversation Topics
 
+- **2 Nov 2026:**
+  - Ben O'Connor ([Archway Labs][32]) presented "Verified Python Programs with String Diagrams"
 - **19 Oct 2026:**
   - Philippe Dumonet presented on interaction trees [slides][27]
 - **12 Oct 2026:**
@@ -159,3 +161,4 @@ Good luck! You can ask for help in the Discord server.
 [29]: https://www.youtube.com/watch?v=OzM9hohlHnI
 [30]: https://www.youtube.com/watch?v=0WcPX1lO9AY
 [31]: https://www.youtube.com/watch?v=Vy1d_VJj8fg
+[32]: https://archway-labs.ai/
