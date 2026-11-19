@@ -38,10 +38,16 @@ Interested in sponsoring the meetup? See [our sponsor page](sponsor).
 
 ## Past Session Conversation Topics
 
+- **9 Nov 2026:**
+  - Joel Dietz (Delphi Bio) presented "Delphi: Lean for Bio" [video][37]<br><a href="https://www.youtube.com/watch?v=aENq0zBnF_Y"><img src="https://img.youtube.com/vi/aENq0zBnF_Y/mqdefault.jpg" width="240" alt="Watch on YouTube"></a>
+  - Harsh Gupta (Theoric Labs) presented "Building Virtual Hardware for Real Performance" [video][38]<br><a href="https://www.youtube.com/watch?v=NshoJJ2qvOs"><img src="https://img.youtube.com/vi/NshoJJ2qvOs/mqdefault.jpg" width="240" alt="Watch on YouTube"></a>
 - **2 Nov 2026:**
-  - Ben O'Connor ([Archway Labs][32]) presented "Verified Python Programs with String Diagrams"
+  - Ben O'Connor ([Archway Labs][32]) presented "Verified Python Programs with String Diagrams" [video][36]<br><a href="https://www.youtube.com/watch?v=85P6V4T6ps0"><img src="https://img.youtube.com/vi/85P6V4T6ps0/mqdefault.jpg" width="240" alt="Watch on YouTube"></a>
+- **26 Oct 2026:**
+  - Victor Taelin (Higher Order Company) presented "Bend: A Linear Proof Language That Matches C Performance and Runs on GPUs" [video][35]<br><a href="https://www.youtube.com/watch?v=PqufdZ5skWQ"><img src="https://img.youtube.com/vi/PqufdZ5skWQ/mqdefault.jpg" width="240" alt="Watch on YouTube"></a>
 - **19 Oct 2026:**
-  - Philippe Dumonet presented on interaction trees [slides][27]
+  - Philippe Dumonet (Spearbit) presented "Representing Nonterminating Computation using iTrees" [slides][27] [video][33]<br><a href="https://www.youtube.com/watch?v=arHjKoeyraY"><img src="https://img.youtube.com/vi/arHjKoeyraY/mqdefault.jpg" width="240" alt="Watch on YouTube"></a>
+  - Arnav Mehta (Pramaana Labs) presented "Formalizing Knowledge at Scale: Machine-Checkable Proofs Beyond Mathematics for Law, Taxation and Security Protocols" [video][34]<br><a href="https://www.youtube.com/watch?v=1m8oiT0RhbU"><img src="https://img.youtube.com/vi/1m8oiT0RhbU/mqdefault.jpg" width="240" alt="Watch on YouTube"></a>
 - **12 Oct 2026:**
   - Alex Skidanov presented "First Place on LeanEval at a Fraction of the Cost" [slides][22] [gslides][23] [video][28]<br><a href="https://www.youtube.com/watch?v=PyjV0PuTJDo"><img src="https://img.youtube.com/vi/PyjV0PuTJDo/mqdefault.jpg" width="240" alt="Watch on YouTube"></a>
 - **5 Oct 2026:**
@@ -162,3 +168,9 @@ Good luck! You can ask for help in the Discord server.
 [30]: https://www.youtube.com/watch?v=0WcPX1lO9AY
 [31]: https://www.youtube.com/watch?v=Vy1d_VJj8fg
 [32]: https://archway-labs.ai/
+[33]: https://www.youtube.com/watch?v=arHjKoeyraY
+[34]: https://www.youtube.com/watch?v=1m8oiT0RhbU
+[35]: https://www.youtube.com/watch?v=PqufdZ5skWQ
+[36]: https://www.youtube.com/watch?v=85P6V4T6ps0
+[37]: https://www.youtube.com/watch?v=aENq0zBnF_Y
+[38]: https://www.youtube.com/watch?v=NshoJJ2qvOs
